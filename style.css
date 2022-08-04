@@ -1,12 +1,19 @@
-body{
-    background-color:coral; text-align: justify;
+body {
+    background-color: #EA755B;
+    text-align: center;
 }
-<h1>{
-    color:black; text-align: center;
+
+<h1> {
+    color: black;
+    text-align: center;
 }
-h2{
-color:black; text-align: center;
+
+h2 {
+    color: black;
+    text-align: center;
 }
-p{
-    font-size: 30px;
+
+p {
+    font-size: 25px;
+    text-align: center;
 }
