@@ -17,6 +17,8 @@ p {
     font-size: 25px;
     text-align: center;
 }
-#imagem2{
+#Imagem{
+    width: 30%;
     border: 5px solid red;
+
 }
