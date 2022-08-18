@@ -23,3 +23,24 @@ p {
     height: 60%;
 
 }
+.imagem3 {
+    width: 50%;
+    height: 40%;
+}
+
+li::marker{
+    content: "2606";
+    color: blue;
+    font-size: 30px;
+}
+.itens{
+    background-color: #EA6272;
+    color: black;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: none;
+}
