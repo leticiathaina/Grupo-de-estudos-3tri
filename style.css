@@ -47,3 +47,6 @@ ol{
     margin: 3%;
     list-style: none;
 }
+.fundo{
+    background-image:   image(<img id="Imagem" src="Imagem.jpg">);
+}
