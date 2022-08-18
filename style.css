@@ -1,6 +1,7 @@
 body {
-    background-color: #EA6272;
+    background-image: image("Imagem1.jpg");
     text-align: center;
+    opacity: 0.5;
 }
 
 <h1> {
@@ -46,8 +47,4 @@ ol{
     vertical-align: top;
     margin: 3%;
     list-style: none;
-}
-.Imagem{
-    background-image: image("Imagem.jpg");
-    opacity: 0.5;
 }
