@@ -23,13 +23,21 @@ p {
     height: 60%;
 
 }
-.imagem3 {
-    width: 50%;
-    height: 40%;
+.Imagem2 {
+    width: 30%;
+    height: 20%;
+}
+.Imagem3 {
+    width: 30%;
+    height: 20%;
+}
+.Imagem4 {
+    width: 30%;
+    height: 20%;
 }
 
 li::marker{
-    content: "2606";
+    content: "\2606";
     color: blue;
     font-size: 30px;
 }
