@@ -1,5 +1,5 @@
 body {
-    background-image: image("Imagem1.jpg");
+    background-image:<0.5-"Imagem1.jpg"># ;
     text-align: center;
     opacity: 0.5;
 }
