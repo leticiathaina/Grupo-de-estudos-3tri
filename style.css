@@ -21,7 +21,7 @@ p {
     width: 70%;
     border: 5px solid black;
     height: 60%;
-
+}
 
 #Imagem2{
     width: 20%;
@@ -33,12 +33,12 @@ p {
     width: 20%;
     border: 2px solid black;
     height: 20%;
-
-    #Imagem{
+}
+#Imagem4{
         width: 20%;
         border: 2px solid black;
         height: 20%;
-
+}
 .Imagem2 {
     width: 15%;
     height: 10%;
