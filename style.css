@@ -1,5 +1,5 @@
 body {
-    background-image: "Imagem.jpg" ;
+    background-image: url("Imagem.jpg") ;
     opacity: 30%;
     text-align: center;
 }
