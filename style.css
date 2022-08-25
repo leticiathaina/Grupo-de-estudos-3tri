@@ -1,9 +1,10 @@
 body {
-    background-color: #EA6272;
+    background-image: img id="Imagem" src="Imagem.jpg" ;
+    opacity: 30%;
     text-align: center;
 }
 
-<h1> {
+h1 {
     color: black;
     text-align: center;
 }
