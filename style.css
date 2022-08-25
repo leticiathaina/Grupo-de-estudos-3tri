@@ -1,5 +1,5 @@
 body {
-    background-image: url("Imagem.jpg") ;
+    background-color: #EA6272 ;
     text-align: center;
 }
 
@@ -21,7 +21,6 @@ p {
     width: 70%;
     border: 5px solid black;
     height: 60%;
-    opacity: 5%;
 }
 
 #Imagem2{
@@ -63,4 +62,8 @@ ol{
     vertical-align: top;
     margin: 3%;
     list-style: none;
+}
+.fundo{
+    background-image: url("Imagem");
+    opacity: 5%;
 }
