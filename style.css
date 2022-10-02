@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-image: url("Imagem.jpg");
+    background-image: url("Imagem1.jpg");
+    filter: alpha(opacity=50);
 
 }
 
