@@ -1,5 +1,7 @@
 body {
     text-align: center;
+    background-image: url("Imagem1.jpg");
+    opacity: 5%;
 }
 
 h1 {
@@ -61,8 +63,4 @@ ol{
     vertical-align: top;
     margin: 3%;
     list-style: none;
-}
-.fundo{
-    background-image: url("Imagem1.jpg");
-    opacity: 5%;
 }
