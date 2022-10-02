@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-image: url("Imagem1.jpg");
-    opacity: 5%;
+
 }
 
 h1 {
@@ -54,7 +54,6 @@ p {
 }
 
 .itens{
-    background-color: #EA6272;
     color: black;
 }
 
