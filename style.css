@@ -1,11 +1,7 @@
 body {
     text-align: center;
-    background-image: url("Imagem1.jpg");
+    background-image: url("Imagem.jpg");
 
-}
-#Imagem1{
-    width: 50%;
-    height: 50%;
 }
 
 h1 {
