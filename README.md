@@ -1,4 +1,3 @@
-# Grupo-de-estudos-quinta
-TURMA N - quinta das 9h as 10h40
-## 30 de junho de 2022
+# Grupo-de-Estudos
+TURMA E - quarta das 17h10 as 18h40
 🤩
